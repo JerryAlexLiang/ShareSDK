@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tpl_title_back_arrow.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\tpl_title_back_arrow.png"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checked.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tpl_logo.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\tpl_logo.png"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

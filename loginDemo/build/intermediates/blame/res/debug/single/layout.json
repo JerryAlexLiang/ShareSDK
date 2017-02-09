@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\layout\\register_page.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\layout\\register_page.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\ShareSDK_Demo\\loginDemo\\src\\main\\res\\layout\\login_page.xml"
+    }
+]

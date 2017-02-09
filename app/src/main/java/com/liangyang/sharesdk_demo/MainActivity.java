@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         // site是分享此内容的网站名称，仅在QQ空间使用
         oks.setSite("GitHub");
         // siteUrl是分享此内容的网站地址，仅在QQ空间使用
-        oks.setSiteUrl("http://sharesdk.cn");
+        oks.setSiteUrl("https://github.com/JerryAlexLiang");
 
         // 启动分享GUI
         oks.show(this);
